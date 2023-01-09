@@ -1,0 +1,26 @@
+{
+    "CommunityLink": [{
+            "joinicon": "home_images/link_1.svg"
+        },
+
+        {
+            "joinicon": "home_images/link_2.svg"
+        },
+
+        {
+            "joinicon": "home_images/link_3.svg"
+        },
+
+        {
+            "joinicon": "home_images/link_4.svg"
+        },
+
+        {
+            "joinicon": "home_images/link_5.svg"
+        },
+
+        {
+            "joinicon": "home_images/link_6.svg"
+        }
+    ]
+}

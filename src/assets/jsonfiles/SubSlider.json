@@ -1,0 +1,22 @@
+{
+    "StartupSliderData": [{
+            "SubBanner": "home_images/news_img_1.jpg"
+        },
+        {
+            "SubBanner": "home_images/news_img_2.jpg"
+        },
+        {
+            "SubBanner": "home_images/news_img_3.jpg"
+        },
+        {
+            "SubBanner": "home_images/news_img_4.jpg"
+        },
+        {
+            "SubBanner": "home_images/news_img_5.jpg"
+        },
+        {
+            "SubBanner": "home_images/news_img_6.jpg"
+        }
+
+    ]
+}

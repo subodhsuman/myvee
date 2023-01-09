@@ -1,0 +1,70 @@
+.error {
+    color: var(--red);
+    font-size: 13px;
+    font-weight: 600;
+    margin-top: 2px;
+    margin-left: 8px;
+}
+
+.spinner-border {
+    height: 1.5rem;
+    width: 1.5rem;
+}
+
+.main-select .vs__dropdown-toggle {
+    height: 48px;
+    border-radius: 4px;
+    padding-left: 16px;
+    box-sizing: border-box;
+    background: #f2f2f2;
+    display: flex;
+    align-items: center !important;
+    line-height: normal;
+    border: 1px solid #ccc;
+    font-size: 16px;
+    font-family: "Poppins";
+    font-weight: 500;
+    color: #000;
+    cursor: pointer !important;
+}
+
+.main-select .vs--searchable .vs__dropdown-toggle {
+    cursor: pointer !important;
+}
+
+.main-select .vs__open-indicator {
+    fill: #000;
+}
+
+.main-select .vs__clear {
+    fill: #000;
+}
+
+span#pay-box .main-select .vs__dropdown-toggle {
+    border: none;
+    width: 100%;
+    font-size: 16px;
+    font-family: "Poppins";
+    font-weight: 500;
+    color: #000;
+    cursor: pointer !important;
+    padding: 0;
+}
+
+
+/******************************************* PAGINATION CSS *******************************************/
+.pagination_box .VuePagination nav ul.pagination li a.page-link {
+    background-color: var(--white);
+    border-color: var(--dark-bg);
+    color: var(--black);
+}
+
+.pagination_box .VuePagination nav ul.pagination li.page-item.active a.page-link {
+    background-color: var(--dark-bg);
+    color: var(--white);
+}
+@media all and (min-width: 320px) and (max-width: 767px) {
+    span#pay-box .vs__selected {
+        font-size: 14px;
+    }
+}

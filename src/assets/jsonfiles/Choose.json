@@ -1,0 +1,26 @@
+{
+    "ChooseData": [{
+            "chooseicon": "new_images/choose_1.svg",
+            "choosetitle": "Comprehensive protection with security and law funds",
+            "choosepara": "Myvee protects your funds with both centralized and decentralized methods. It is also the first exchange to invest millions in security and law funds to add extra protection for your assets."
+        },
+
+        {
+            "chooseicon": "new_images/choose_2.svg",
+            "choosetitle": "Efficient Trading And Instant Deposit/Withdrawal",
+            "choosepara": "As an established exchange with cutting-edge technology, Myvee Exchange offers an efficient and convenient trading system as well as an instant deposit and withdrawal service."
+        },
+
+        {
+            "chooseicon": "new_images/choose_3.svg",
+            "choosetitle": "Stable And Reliable Since 2020",
+            "choosepara": "Myvee Exchange has been operating stably and reliably. With our constant exploration of innovative technologies, we strive to offer you the best trading experience."
+        },
+
+        {
+            "chooseicon": "new_images/choose_4.svg",
+            "choosetitle": "An Exchange That Lives Up To Your Expectations",
+            "choosepara": "As one of the earliest and largest cryptocurrency exchanges, Gate.io always complies strictly with regulations and has never allowed for market manipulation. We are continuously committed to being open, transparent, and cooperative."
+        }
+    ]
+}

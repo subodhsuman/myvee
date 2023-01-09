@@ -1,0 +1,124 @@
+{
+    "CurruncyData":[{
+        "image":"AANA.png",
+        "currency_name":"AANA",
+        "currency_sub_name":"AANA",
+        "score":"5/5",
+        "start_time":" 05 Aug 2022 ",
+        "end_time":"12 Aug 2022"
+    },
+
+    {
+        "image":"shib.png",
+        "currency_name":"SHIB",
+        "currency_sub_name":"SHIB",
+        "score":"5/5",
+        "start_time":" 05 Aug 2022 ",
+        "end_time":"12 Aug 2022"
+    },
+    {
+        "image":"ada.png",
+        "currency_name":"ADA",
+        "currency_sub_name":"ADA",
+        "score":"5/5",
+        "start_time":" 05 Aug 2022 ",
+        "end_time":"12 Aug 2022"
+    },
+    {
+        "image":"btc.png",
+        "currency_name":"BTC",
+        "currency_sub_name":"BTC",
+        "score":"5/5",
+        "start_time":" 05 Aug 2022 ",
+        "end_time":"12 Aug 2022"
+    },
+    {
+        "image":"AANA.png",
+        "currency_name":"AANA",
+        "currency_sub_name":"AANA",
+        "score":"5/5",
+        "start_time":" 05 Aug 2022 ",
+        "end_time":"12 Aug 2022"
+    },
+    {
+        "image":"shib.png",
+        "currency_name":"SHIB",
+        "currency_sub_name":"SHIB",
+        "score":"5/5",
+        "start_time":" 05 Aug 2022 ",
+        "end_time":"12 Aug 2022"
+    },
+    {
+        "image":"rpt.png",
+        "currency_name":"RPT",
+        "currency_sub_name":"RPT",
+        "score":"5/5",
+        "start_time":" 05 Aug 2022 ",
+        "end_time":"12 Aug 2022"
+    },
+    {
+        "image":"ada.png",
+        "currency_name":"ADA",
+        "currency_sub_name":"ADA",
+        "score":"5/5",
+        "start_time":" 05 Aug 2022 ",
+        "end_time":"12 Aug 2022"
+    },
+    {
+        "image":"bnb.png",
+        "currency_name":"BNB",
+        "currency_sub_name":"BNB",
+        "score":"5/5",
+        "start_time":" 05 Aug 2022 ",
+        "end_time":"12 Aug 2022"
+    },
+    {
+        "image":"rpt.png",
+        "currency_name":"RPT",
+        "currency_sub_name":"RPT",
+        "score":"5/5",
+        "start_time":" 05 Aug 2022 ",
+        "end_time":"12 Aug 2022"
+    },
+    {
+        "image":"ada.png",
+        "currency_name":"ADA",
+        "currency_sub_name":"ADA",
+        "score":"5/5",
+        "start_time":" 05 Aug 2022 ",
+        "end_time":"12 Aug 2022"
+    },
+    {
+        "image":"bnb.png",
+        "currency_name":"BNB",
+        "currency_sub_name":"BNB",
+        "score":"5/5",
+        "start_time":" 05 Aug 2022 ",
+        "end_time":"12 Aug 2022"
+    },
+    {
+        "image":"rpt.png",
+        "currency_name":"RPT",
+        "currency_sub_name":"RPT",
+        "score":"5/5",
+        "start_time":" 05 Aug 2022 ",
+        "end_time":"12 Aug 2022"
+    },
+    {
+        "image":"ada.png",
+        "currency_name":"ADA",
+        "currency_sub_name":"ADA",
+        "score":"5/5",
+        "start_time":" 05 Aug 2022 ",
+        "end_time":"12 Aug 2022"
+    },
+    {
+        "image":"bnb.png",
+        "currency_name":"BNB",
+        "currency_sub_name":"BNB",
+        "score":"5/5",
+        "start_time":" 05 Aug 2022 ",
+        "end_time":"12 Aug 2022"
+    }
+]
+}
